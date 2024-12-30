@@ -1,2 +1,3 @@
 # notesHub.xyz
-A resource hub offering curated study materials, notes, and exam preparation tools to support students in their learning journey.
+A resource hub offers curated study materials, notes, and exam preparation tools to support students' learning journey.
+Visit at: https://suniel2520.github.io/notesHub.xyz/
